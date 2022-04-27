@@ -2,7 +2,7 @@
 # Name:        module1
 # Purpose:
 #
-# Author:      Usuario
+# Author:      Omar Alberto Torres
 #
 # Created:     25/04/2022
 # Copyright:   (c) Usuario 2022
